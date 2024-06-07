@@ -1,0 +1,933 @@
+@font-face {
+    font-family: sahil;
+    src: url(PlayfairDisplay-Italic-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: sahil2;
+    src: url(BreeSerif-Regular.ttf);
+}
+body{
+    display: grid;
+}
+
+ div{
+    width: 100%;
+  height: 120vh;
+}
+.first{
+    background-image: url("1ist\ image.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}.second{
+    background-image: url("2nd\ image.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.third{
+    background-image: url("3rd\ image.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}.fourth{
+    background-image: url("4th\ image.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+}.fifth{
+    background-image: url("5th\ image.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+}.sixth{
+    background-image: url("6th\ image.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+}.seventh{
+    background-image: url("7th\ image.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+}.eight{
+    background-image: url("8th\ image.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+}.ninth{
+    background-image: url("9th\ image.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.second  h1{
+    position: relative;
+    font-size: 50px;
+    font-weight: 700;
+    font-family:'Times New Roman', Times, serif;
+    top: 130px;
+    text-align: center;
+}.second p{
+    position: relative;
+    top: 90px;
+    font-size: 25px;
+    text-align: center;
+    
+}.second pre{
+    position: relative;
+    text-align: center;
+   top: 70px;
+}.second button{
+    border-radius: 5px 5px 5px 5px;
+    
+    height: 40px;
+    width: 250px;
+}.btn1 {
+    position: relative;
+    top: 500px;
+    left: 450px;
+    border-color: white;
+    font-size: 20px;
+}
+.btn2 {
+    background-color: rgb(28, 24, 24);
+    position: relative;
+    color: white;
+    font-size: 20px;
+    top: 500px;
+    left: 500px;
+}.btn2:hover{
+    background-color: rgb(69, 67, 67);
+
+}
+
+
+
+
+
+
+.third  h1{
+    position: relative;
+    font-size: 50px;
+    font-weight: 700;
+    font-family:'Times New Roman', Times, serif;
+    top: 130px;
+    text-align: center;
+}.third p{
+    position: relative;
+    top: 90px;
+    font-size: 25px;
+    text-align: center;
+    
+}.third pre{
+    position: relative;
+    text-align: center;
+   top: 70px;
+}
+.third button{
+    border-radius: 5px 5px 5px 5px;
+    
+    height: 40px;
+    width: 250px;
+}.btn3 {
+    position: relative;
+    top: 500px;
+    left: 450px;
+    border-color: white;
+    font-size: 20px;
+}
+.btn4 {
+    background-color: rgb(28, 24, 24);
+    position: relative;
+    color: white;
+    font-size: 20px;
+    top: 500px;
+    left: 500px;
+}.btn4:hover{
+    background-color: rgb(69, 67, 67);
+
+}
+
+
+
+.fourth  h1{
+    position: relative;
+    color: rgb(255, 210, 210);
+    font-size: 50px;
+    font-weight: 700;
+    font-family:'Times New Roman', Times, serif;
+    top: 130px;
+    text-align: center;
+}.fourth p{
+    position: relative;
+    color: rgb(255, 213, 213);
+    top: 90px;
+    font-size: 25px;
+    text-align: center;
+    
+}.fourth pre{
+    position: relative;
+    color: rgb(255, 214, 214);
+    text-align: center;
+   top: 70px;
+}
+.fourth button{
+    border-radius: 5px 5px 5px 5px;
+    
+    height: 40px;
+    width: 250px;
+}
+.btn5 {
+    position: relative;
+    top: 500px;
+    left: 450px;
+    border-color: white;
+    font-size: 20px;
+}
+.btn6 {
+    background-color: rgb(28, 24, 24);
+    position: relative;
+    color: white;
+    font-size: 20px;
+    top: 500px;
+    left: 500px;
+}.btn6:hover{
+    background-color: rgb(69, 67, 67);
+
+}
+
+
+.fifth  h1{
+    position: relative;
+    color: black;
+    font-size: 100px;
+    font-weight: 700;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    top: 70px;
+    text-align: center;
+}
+.fifth button{
+    border-radius: 5px 5px 5px 5px;
+    
+    height: 40px;
+    width: 300px;
+}
+.btn7 {
+    position: relative;
+    top: 420px;
+    left: 450px;
+    color: grey;
+    background-color: rgb(28, 24, 24);
+    font-size: 13px;
+    font-weight: 600;
+    border-top: 2px solid wheat;
+}
+.btn8 {
+    background-color: rgb(28, 24, 24);
+    position: relative;
+    color: grey;
+    font-size: 13px;
+    font-weight: 600;
+    top: 420px;
+    left: 500px;
+}.btn8:hover{
+    background-color: rgb(69, 67, 67);
+
+}
+
+
+.sixth  h1{
+    position: relative;
+    color: white;
+    font-size: 50px;
+    font-weight: 700;
+    font-family:'Times New Roman', Times, serif;
+    top: 130px;
+    text-align: center;
+}.sixth p{
+    color: white;
+    text-decoration: underline;
+    position: relative;
+    top: 90px;
+    font-size: 25px;
+    text-align: center;
+    
+}
+.sixth button{
+    border-radius: 5px 5px 5px 5px;
+    
+    height: 40px;
+    width: 250px;
+}
+.btn9 {
+    position: relative;
+    top: 590px;
+    left: 450px;
+    border-color: white;
+    font-size: 20px;
+}
+.btn10 {
+    background-color: rgb(28, 24, 24);
+    position: relative;
+    color: white;
+    font-size: 20px;
+    top: 590px;
+    left: 500px;
+}.btn10:hover{
+    background-color: rgb(69, 67, 67);
+
+}
+.seventh  h1{
+    position: relative;
+    color: black;
+    font-size: 50px;
+    font-weight: 700;
+    font-family:normal;
+    top: 130px;
+    text-align: center;
+}.seventh p{
+    color: black;
+    
+    position: relative;
+    top: 100px;
+    font-size: 20px;
+    text-align: center;
+    
+}.seventh button{
+    border-radius: 5px 5px 5px 5px;
+    
+    height: 40px;
+    width: 250px;
+}
+.btn11 {
+    position: relative;
+    top: 590px;
+    left: 450px;
+    border-color: white;
+    font-size: 20px;
+}
+.btn12 {
+    background-color: rgb(28, 24, 24);
+    position: relative;
+    color: white;
+    font-size: 20px;
+    top: 590px;
+    left: 500px;
+}.btn12:hover{
+    background-color: rgb(69, 67, 67);
+
+}
+.eight h1{
+    position: relative;
+    color: black;
+    font-size: 50px;
+    font-weight: 700;
+    font-family:normal;
+      top: 170px;
+    right: 33px;
+    text-align: center;
+}
+.eight button{
+    border-radius: 5px 5px 5px 5px;
+    
+    height: 40px;
+    width: 250px;
+}
+.btn13 {
+    position: relative;
+    top: 590px;
+    left: 450px;
+    border-color: white;
+    font-size: 20px;
+}
+.btn14 {
+    background-color: rgb(28, 24, 24);
+    position: relative;
+    color: white;
+    font-size: 20px;
+    top: 590px;
+    left: 500px;
+}.btn14:hover{
+    background-color: rgb(69, 67, 67);
+
+}.ninth h1{
+    position: relative;
+    color: black;
+    font-size: 50px;
+    font-weight: 700;
+    font-family:normal;
+      top: 170px;
+    right: 33px;
+    text-align: center;
+}
+.ninth button{
+    border-radius: 5px 5px 5px 5px;
+    
+    height: 40px;
+    width: 250px;
+}.btn15 {
+    position: relative;
+    top: 590px;
+    left: 650px;
+    border-color: white;
+    font-size: 20px;
+}
+
+
+/* this starts navigation bar 
+*/
+.nav{
+    height: 80px;
+    width: 100%;
+    display: flex;
+
+    
+    background-color:transparent;
+}.nav div{
+  margin-top: 20px;
+  font-size: 17px;
+  font-family: sahil2;
+  display: inline-block;
+  height: 40px;
+  width: 90px;
+  text-align:center;
+  
+  
+}  
+ img{
+    margin-left: 39px;
+    margin-top: 15px;
+}.veh{
+    position: relative;
+    left: 320px;
+}.en{
+    position: relative;
+    left: 340px;
+   
+}.ch{
+    position: relative;
+    left: 360px;
+    
+}.dis{
+    position: relative;
+      left: 380px;
+}.sh{
+    position: relative;
+    left: 400px;
+   
+}#igm{
+    border-radius: 50%;
+}.imj{
+    position: relative;
+    left: 630px;
+
+}.ima{
+    position: relative;
+left: 595px;
+}.iki{
+    position: relative;
+    top: 3px;
+    left: 560px;
+}
+
+.photos{
+  visibility: hidden;
+    display: flex;
+    height: 400px;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  background-color:antiquewhite;
+  overflow: hidden;
+  white-space: nowrap;
+  z-index: 1;
+ 
+  
+
+
+}.btnu:hover{
+   background-color: rgb(87, 80, 80);
+}
+
+
+
+
+.photos div{
+    margin-left: 4px;
+    height: 250px;
+    width: 200px;
+    background-color: antiquewhite;
+    overflow: hidden;
+
+}.box1 img{
+    position: relative;
+    right: 45px;
+    transition-property: all;
+    transition-duration: 1s;
+    transition-timing-function: ease;
+}.box2 img{
+    position: relative;
+    right: 45px; 
+    transition-property: all;
+    transition-duration: 1s;
+    transition-timing-function: ease;
+}
+.box3 img{
+    position: relative;
+    right: 45px;
+    transition-property: all;
+    transition-duration: 1s;
+    transition-timing-function: ease;
+}
+.box4 img{
+    position: relative;
+    right: 45px;
+    transition-property: all;
+    transition-duration: 1s;
+    transition-timing-function: ease;
+}.box5 img{
+    position: relative;
+    right: 40px;
+    transition-property: all;
+    transition-duration: 1s;
+    transition-timing-function: ease;
+}.box1 h3{
+    position: relative;
+    text-align: center;
+    bottom: 20px;
+
+}.box1 pre{
+    position: relative;
+    bottom: 20px;
+    text-align: center;
+    text-decoration: underline;
+}
+.box2 h3{
+    position: relative;
+    text-align: center;
+    bottom: 20px;
+
+}.box2 pre{
+    position: relative;
+    bottom: 20px;
+    text-align: center;
+    text-decoration: underline;
+}
+.box3 h3{
+    position: relative;
+    text-align: center;
+    bottom: 20px;
+
+}.box3 pre{
+    position: relative;
+    bottom: 20px;
+    text-align: center;
+    text-decoration: underline;
+}
+.box4 h3{
+    position: relative;
+    text-align: center;
+    bottom: 20px;
+
+}.box4 pre{
+    position: relative;
+    bottom: 20px;
+    text-align: center;
+    text-decoration: underline;
+}
+.box5 h3{
+    position: relative;
+    text-align: center;
+    bottom: 20px;
+
+}.box5 pre{
+    position: relative;
+    bottom: 20px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+.infor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 20%;
+    
+   
+    font-size: 20px;
+
+    font-weight: 300;
+}
+
+@keyframes zero{
+    from{
+        height: 0;
+        
+  
+    }to{
+        height: 400px;
+       
+    }
+}
+.veh:hover{
+  text-decoration: underline;  
+}
+.en:hover{
+    text-decoration: underline;  
+}
+.dis:hover{
+    text-decoration: underline;  
+}
+.sh:hover{
+    text-decoration: underline;  
+}
+.ch:hover{
+    text-decoration: underline;  
+}
+.box1 h3:hover{
+ text-decoration: underline;
+
+}
+.box2 h3:hover{
+    text-decoration: underline;
+   
+}
+.box3 h3:hover{
+    text-decoration: underline;
+   
+}
+.box4 h3:hover{
+    text-decoration: underline;
+   
+}.box5 h3:hover{
+    text-decoration: underline;
+   
+}
+/* energy div */
+.eng-div{
+    overflow: hidden;
+   
+    position: relative;
+    bottom: 399px;
+    height: 300px;
+    width: 100%;
+    align-items: center;
+  
+    justify-content: center;
+    z-index: 2;
+
+    
+   display: flex;
+    background-color:antiquewhite;
+}.eng-div div{
+    overflow: hidden;
+    height: 300px;
+     margin-left:5px;
+     
+    
+    width: 200px;
+    background-color: antiquewhite;
+
+}
+@keyframes xero{
+    from{
+        height: 0;
+
+    }
+    to{
+        height: 300px;
+    }
+}
+@keyframes cero{
+    from{
+        height: 400px;
+    }to{
+        height: 0;
+    }
+}@keyframes kero{
+    from{
+        height: 300px;
+    }to{
+        height: 0;
+    }
+}
+   
+.one img{
+    position: relative;
+    right: 22px;
+    transition-property: all;
+    transition-duration: 1s;
+    transition-timing-function: ease;
+}
+.one h3{
+    position: relative;
+    text-align: center;
+    bottom: 10px;
+
+}.one pre{
+    position: relative;
+    bottom: 10px;
+    text-align: center;
+    text-decoration: underline;
+}
+   
+.two img{
+    position: relative;
+    right: 22px;
+    transition-property: all;
+    transition-duration: 1s;
+    transition-timing-function: ease;
+}
+.two h3{
+    position: relative;
+    text-align: center;
+    bottom: 10px;
+
+}.two pre{
+    position: relative;
+    bottom: 10px;
+    text-align: center;
+    text-decoration: underline;
+}
+   
+.three img{
+    position: relative;
+    right: 22px;
+    transition-property: all;
+    transition-duration: 1s;
+    transition-timing-function: ease;
+}
+.three h3{
+    position: relative;
+    text-align: center;
+    bottom: 10px;
+
+}.three pre{
+    position: relative;
+    bottom: 10px;
+    text-align: center;
+    text-decoration: underline;
+}
+   
+.four img{
+    position: relative;
+    right: 22px;
+    transition-property: all;
+    transition-duration: 1s;
+    transition-timing-function: ease;
+}
+.four h3{
+    position: relative;
+    text-align: center;
+    bottom: 10px;
+
+}.four pre{
+    position: relative;
+    bottom: 10px;
+    text-align: center;
+    text-decoration: underline;
+}
+.five{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* charging div */
+.charge{
+    height: 300px;
+    width: 100%;
+    background-color: antiquewhite;
+    position: relative;
+    bottom: 699px;
+    display: flex;
+    justify-content: space-evenly;
+    overflow: hidden;
+    z-index: 3;
+    
+   
+}
+.charge div {
+    margin-top: 10px;
+    height: 250px;
+    width: 200px;
+    background-color: antiquewhite;
+}
+.one1 h3
+{
+ text-align: center;
+}.one1 pre{
+    text-align: center;
+    text-decoration: underline;
+}
+.one2 h3{
+    text-align: center;
+}.one2 pre{
+    text-align: center;
+    text-decoration: underline;
+}
+.one3 h3{
+text-align: center;
+}.one3 pre{
+ text-align: center;
+ text-decoration: underline;
+}
+.one3 img{
+    position: relative;
+    right: 15px;
+}.one4 li{
+    text-align: center;
+    margin-top: 10px;
+ font-size: 17px;
+}@keyframes wero{
+    from{
+        height: 0;
+    }to{
+        height: 300px;
+    }
+}@keyframes hero{
+    from{
+        height: 300px;
+    }to{
+        height: 0;
+    }
+}
+
+
+/* discover div*/
+.discover{
+    height: 450px;
+    width: 100%;
+    background-color:antiquewhite;
+  position: relative;
+  bottom: 1000px;
+  display: flex;
+  
+  justify-content: space-evenly;
+  overflow: hidden;
+  z-index: 4;
+}
+.discover div{
+    margin-top: 40px;
+    height: 350px;
+    width: 350px;
+    background-color:antiquewhite;
+}
+.dis1 h3{
+  text-align: center;
+  font-size: 30px;
+}
+.dis1 li{
+    text-align: center;
+    margin-top: 15px;
+    font-size: 26px;
+}
+.dis2 h3{
+    text-align: center;
+    font-size: 30px;
+}
+.dis2 li{
+      text-align: center;
+      margin-top: 15px;
+      font-size: 26px;
+}
+
+.dis3 h3{
+    text-align: center;
+    font-size: 30px;
+}
+.dis3 li{
+      text-align: center;
+      margin-top: 15px;
+      font-size: 26px;
+}
+
+@keyframes shafi{
+    from{
+        height: 0;
+    }to{
+        height: 450px;
+    }
+}
+@keyframes shafin{
+    from{
+        height: 450px;
+    }to{
+        height: 0;
+    }
+}
+
+
+/* shop div*/
+.shop{
+    height: 350px;
+    width: 100%;
+    background-color:antiquewhite;
+    position: relative;
+    bottom: 1450px;
+    display: flex;
+    justify-content: space-evenly;
+    overflow: hidden;
+    z-index: 5;
+  
+}.shop div{
+    margin-top: 30px;
+    height: 290px;
+    width: 250px;
+    background-color: beige;
+}.as1 h3{
+  text-align: center;
+}.as1 img{
+    position: relative;
+   
+}.as2 h3{
+    text-align: center;
+}.as2 img{
+      position: relative;
+      right: 20px;
+}  
+  .as3 h3{
+    text-align: center;
+}.as3 img{
+      position: relative;
+      right: 20px;
+} 
+.as4 h3{
+    text-align: center;
+}.as4 img{
+      position: relative;
+      right: 20px;
+} 
+
+
+@keyframes  shop{
+    from{
+        height: 0;
+    }to{
+        height: 350px;
+    }
+}@keyframes shops{
+    from{
+        height: 350px;
+    }to{
+        height: 0;
+    }
+}.btnw{
+    height: 50px;
+    width: 250px;
+    position: relative;
+    top: 700px;
+    left: 450px;
+    z-index: 6;
+
+}
+.btnu{
+    height: 50px;
+    width: 250px;
+    position: relative;
+    top: 700px;
+    z-index: 7;
+    left: 500px;
+    background-color: rgb(43, 39, 39);
+    color: aliceblue;
+}.hri{
+    text-align: center;
+    position: relative;
+    top: 400px;
+}
